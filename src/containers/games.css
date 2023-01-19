@@ -1,0 +1,45 @@
+.hmmm {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    color: white;
+    top: -50px;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+.iamgess {
+    width: 120px;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.zdupss {
+    margin: 2px;
+}
+
+.kayahh {
+    margin: 10px;
+    border-radius: 40px;
+    background-color: rgb(241,221,105);
+}
+
+.kayahh:hover {
+    opacity: 0.5;
+}
+
+.space {
+    margin: 50px;
+}
+
+.backgroundheh {
+    background-color: rgba(183,104,226,0.8);
+}
+
+.lajt {
+    color: white;
+}

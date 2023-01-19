@@ -1,0 +1,45 @@
+.hmmm {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    color: white;
+    top: -50px;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+.iamges {
+    width: 200px;
+    height: 150px;
+    border-radius: 60px;
+    padding: 20px;
+}
+
+.zdups {
+    margin: 2px;
+}
+
+.kayah {
+    margin: 10px;
+    border-radius: 60px;
+    background-color: rgb(241,221,105);
+}
+
+.kayah:hover {
+    opacity: 0.5;
+}
+
+.space {
+    margin: 50px;
+}
+
+.backgroundheh {
+    background-color: rgba(183,104,226,0.8);
+}
+
+.lajt {
+    color: white;
+}
